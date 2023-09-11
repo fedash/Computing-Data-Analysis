@@ -11,3 +11,4 @@ This repository features projects inspired by the material taught in the "Comput
   In this project, I explore transaction data, uncovering relationships between items using association rule mining. The results are visualized as a network graph, offering insights into potential marketing strategies and product placement.
 
 ---
+
