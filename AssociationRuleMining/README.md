@@ -1,6 +1,6 @@
 # Association Rule Mining on Transaction Data
 
-In this project, I delved into transaction data to discover product associations and relationships. I utilized the principles of association rule mining, specifically the Apriori algorithm, to reveal which products are frequently bought together. Additionally, we visualized the results with a colorful network graph to showcase these associations visually.
+In this project, I delved into transaction data to discover product associations and relationships. I utilized the principles of association rule mining, specifically the Apriori algorithm, to reveal which products are frequently bought together. Additionally, I visualized the results with a colorful network graph to showcase these associations visually.
 
 ## Data Used
 
