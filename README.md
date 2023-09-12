@@ -3,7 +3,7 @@ This repository features projects inspired by the material taught in the "Comput
 
 ## Table of Contents
 1. [Association Rule Mining on Transaction Data](https://github.com/fedash/Computing-Data-Analysis/tree/main/AssociationRuleMining)
-
+2. [Yelp Web Scraping - German Cuisine Restaurants Analysis](https://github.com/fedash/Computing-Data-Analysis/tree/main/YelpWebScraper)
 ---
 
 ### 1. Association Rule Mining on Transaction Data
