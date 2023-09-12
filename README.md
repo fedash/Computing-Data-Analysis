@@ -11,4 +11,7 @@ This repository features projects inspired by the material taught in the "Comput
   In this project, I explore transaction data, uncovering relationships between items using association rule mining. The results are visualized as a network graph, offering insights into potential marketing strategies and product placement.
 
 ---
+### 2. Yelp Web Scraping - German Cuisine Restaurants Analysis
+  I scraped Yelp to gather data on German cuisine restaurants in Erlangen and ranked them by computing their weighted ratings. The top picks were then plotted on a map for easy location spotting.
 
+---
