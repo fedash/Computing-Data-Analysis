@@ -5,6 +5,7 @@ This repository features projects inspired by the material taught in the "Comput
 1. [Association Rule Mining on Transaction Data](https://github.com/fedash/Computing-Data-Analysis/tree/main/AssociationRuleMining)
 2. [Yelp Web Scraping - German Cuisine Restaurants Analysis](https://github.com/fedash/Computing-Data-Analysis/tree/main/YelpWebScraper)
 3. [GitHub Repos Dive Using API](https://github.com/fedash/Computing-Data-Analysis/tree/main/GithubAnalysisAPI)
+4. [ECommerce Data Analysis and Visualization](https://github.com/fedash/Computing-Data-Analysis/tree/main/ECommerceDataAnalysis)
 ---
 
 ### 1. Association Rule Mining on Transaction Data
@@ -20,3 +21,5 @@ This repository features projects inspired by the material taught in the "Comput
 Tapped into GitHub's API to fetch the top 1000 repos, looking at stars, forks, and hot topics. Visualized key trends and spotted which topics grab the most attention.
 
 ---
+### 4. ECommerce Data Analysis and Visualization
+In this project, I delved deep into e-commerce data, focusing on customer behavior, order flows, and product insights. Through various analytical methods and visualization techniques, key trends like preferred payment methods, state-wise order distribution, and product preferences were highlighted. Detailed geographic visualizations were employed to showcase data on the map of Brazil, providing a comprehensive spatial view of e-commerce patterns.
