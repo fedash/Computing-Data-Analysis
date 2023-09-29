@@ -6,7 +6,7 @@ This repository features projects inspired by the material taught in the "Comput
 2. [Yelp Web Scraping - German Cuisine Restaurants Analysis](https://github.com/fedash/Computing-Data-Analysis/tree/main/YelpWebScraper)
 3. [GitHub Repos Dive Using API](https://github.com/fedash/Computing-Data-Analysis/tree/main/GithubAnalysisAPI)
 4. [ECommerce Data Analysis and Visualization](https://github.com/fedash/Computing-Data-Analysis/tree/main/ECommerceDataAnalysis)
-5. 5. [Logistic Regression Analysis on Heart Transplant Cases](https://github.com/fedash/Computing-Data-Analysis/tree/main/LogisticRegressionHealth)
+5. [Logistic Regression Analysis on Heart Transplant Cases](https://github.com/fedash/Computing-Data-Analysis/tree/main/LogisticRegressionHealth)
 
 ---
 
