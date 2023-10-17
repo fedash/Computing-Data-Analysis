@@ -7,7 +7,7 @@ This repository features projects inspired by the material taught in the "Comput
 3. [GitHub Repos Dive Using API](https://github.com/fedash/Computing-Data-Analysis/tree/main/GithubAnalysisAPI)
 4. [ECommerce Data Analysis and Visualization](https://github.com/fedash/Computing-Data-Analysis/tree/main/ECommerceDataAnalysis)
 5. [Logistic Regression Analysis on Heart Transplant Cases](https://github.com/fedash/Computing-Data-Analysis/tree/main/LogisticRegressionHealth)
-
+6. [K-means Clustering and Image Segmentation](https://github.com/fedash/Computing-Data-Analysis/tree/main/KmeansImageSegmentation)
 ---
 
 ### 1. Association Rule Mining on Transaction Data
@@ -31,3 +31,8 @@ In this project, I delved deep into e-commerce data, focusing on customer behavi
 ### 5. Logistic Regression Analysis on Heart Transplant and Heart Failure Cases
 
 In this project, I took a deep dive into predicting heart transplant success using logistic regression. The data set consists of multiple patient features like age, blood type, and medical history. The real kicker here was optimizing the model using Maximum Likelihood Estimation (MLE) methods, where I compared the performance of Gradient Ascent and Newton's Method. The findings were visualized with contour plots and likelihood trajectories, giving a graphical gist of how well each method performs.
+
+---
+
+### 6. K-means Clustering and Image Segmentation
+In this project, I explored the intricacies of the K-means clustering algorithm by implementing it from scratch. I started with a thorough mathematical foundation and moved on to apply the algorithm to synthetic and Iris datasets. Further, the algorithm's versatility is showcased through its application in image segmentation. The elbow method is utilized to identify the optimal number of clusters, and all findings are meticulously visualized to provide a well-rounded understanding of the technique.
