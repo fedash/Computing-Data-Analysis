@@ -8,6 +8,7 @@ This repository features projects inspired by the material taught in the "Comput
 4. [ECommerce Data Analysis and Visualization](https://github.com/fedash/Computing-Data-Analysis/tree/main/ECommerceDataAnalysis)
 5. [Logistic Regression Analysis on Heart Transplant Cases](https://github.com/fedash/Computing-Data-Analysis/tree/main/LogisticRegressionHealth)
 6. [K-means Clustering and Image Segmentation](https://github.com/fedash/Computing-Data-Analysis/tree/main/KmeansImageSegmentation)
+7. [Image Compression and Data Dimensionality Reduction with SVD and PCA from Scratch](https://github.com/fedash/Computing-Data-Analysis/tree/main/ImageCompression_SVD_PCA)
 ---
 
 ### 1. Association Rule Mining on Transaction Data
@@ -36,3 +37,9 @@ In this project, I took a deep dive into predicting heart transplant success usi
 
 ### 6. K-means Clustering and Image Segmentation
 In this project, I explored the intricacies of the K-means clustering algorithm by implementing it from scratch. I started with a thorough mathematical foundation and moved on to apply the algorithm to synthetic and Iris datasets. Further, the algorithm's versatility is showcased through its application in image segmentation. The elbow method is utilized to identify the optimal number of clusters, and all findings are meticulously visualized to provide a well-rounded understanding of the technique.
+
+---
+### 7. Image Compression and Data Dimensionality Reduction with SVD and PCA from Scratch
+In this multifaceted project, I dived into the realm of Singular Value Decomposition (SVD) and Principal Component Analysis (PCA), applying them both from scratch. Initially, I applied PCA to wine data for dimensionality reduction, featuring an under-the-hood look at the algorithm and its mathematical foundation. Then, I shifted gears to leverage SVD for image compression, using two different images to showcase the technique's efficacy. This project not only highlights the mathematical prowess behind these two algorithms but also demonstrates their practical applications in data science. Various metrics like compression ratios and reconstruction errors are also discussed, making the project a comprehensive guide to SVD and PCA. 
+
+---
