@@ -19,9 +19,12 @@ This project dives deep into Singular Value Decomposition (SVD) and Principal Co
 ## Packages Used
 
 - **numpy**: For numerical computations and linear algebra.
+- **pandas**: For data manipulation and analysis.
 - **matplotlib**: For data visualization.
+- **sklearn**: For data preprocessing, loading datasets, and splitting data.
 - **PIL**: For image manipulation tasks.
-  
+- **time**: For tracking code execution time.
+
 ## Conclusion
 
 This project offers a thorough examination of SVD and PCA, from the math behind them to their real-world applications. The highlight is undoubtedly the image compression part, where SVD was used to compress images with varying levels of quality. This not only showcases the utility of SVD in data compression but also provides a hands-on, from-scratch approach to these powerful techniques. Overall, this project serves as an excellent resource for anyone looking to understand SVD and PCA, making it a standout piece in a data science portfolio.
